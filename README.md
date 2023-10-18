@@ -1,5 +1,5 @@
 # Maven_Movies
-# Maven-Movies: MySQL
+# Maven-Movies: MS SQL SERVER
 
 ## Maven Analytics Assignment Case Study Competition:
 
